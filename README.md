@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Molecular Biology & Computational Biology
+Molecular & Computational Biology , Interdisciplinary Biotechnology
 
 
 ## 🌐 Socials:
