@@ -1,6 +1,6 @@
 ##
 
-Molecular & Computational Biology , Interdisciplinary Biotechnology
+Molecular & Computational Biology
 
 
 # --💻--
